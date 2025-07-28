@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Hacking Ético y Electrónica</title>
+  <subtitle>Artículos sobre Hacking Ético con Electrónica</subtitle>
+  <link href="https://f0r4zx.github.io/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://f0r4zx.github.io/" rel="alternate" type="text/html"/>
+  <updated>2025-02-02T05:23:46+00:00</updated>
+  <id>https://f0r4zx.github.io/feed.xml</id>
+  <author>
+    <name>f0r4zx</name>
+  </author>
+
+  <!-- Primer artículo -->
+  <entry>
+    <title>Post de ejemplo</title>
+    <link href="https://f0r4zx.github.io/tu-post-de-ejemplo" rel="alternate" type="text/html"/>
+    <id>https://f0r4zx.github.io/tu-post-de-ejemplo</id>
+    <published>2025-01-30T05:00:00+00:00</published>
+    <updated>2025-01-30T05:00:00+00:00</updated>
+    <summary>Resumen del post de ejemplo.</summary>
+    <content type="html">Contenido del post de ejemplo.</content>
+    <category term="Hacking Ético" />
+  </entry>
+
+  <!-- Aquí puedes agregar más entradas -->
+
+</feed>
+
