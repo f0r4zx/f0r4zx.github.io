@@ -10,9 +10,9 @@ header:
 categories:
   - Research
 tags:
-  - Hospitales
-  - Dicom
-  - Radiant
+  - Principiante
+  - Electronica
+  - Proteus
 ---
 
 ![](/assets/images/proteus/index.png)
