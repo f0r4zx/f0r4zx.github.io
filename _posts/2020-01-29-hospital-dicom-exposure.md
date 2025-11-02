@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/hospital-dicom/dicom.png
   teaser_home_page: true
 categories:
-  - Research
+  - Electronica
 tags:
   - Principiante
   - Electronica
