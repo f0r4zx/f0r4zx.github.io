@@ -5,7 +5,7 @@ excerpt: "En este articulo te mostrare como se puede crear un semaforo con compu
 date: 2025-11-1
 classes: wide
 header:
-  teaser: assets/images/proteus/index.webp
+  teaser: 
   teaser_home_page: true
 categories:
   - Electronica
