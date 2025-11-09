@@ -5,7 +5,7 @@ excerpt: "En este articulo te mostrare como se puede crear un semaforo con compu
 date: 2025-11-1
 classes: wide
 header:
-  teaser: /assets/images/proteus/index
+  teaser: assets/images/proteus/index.jpg
   teaser_home_page: true
 categories:
   - Electronica
@@ -15,7 +15,7 @@ tags:
   - Proteus
 ---
 
-![](/assets/images/proteus/index)
+![](assets/images/proteus/index.jpg)
 
 Durante los últimos dos años me he estado nutriendo de conocimientos en electrónica para aplicarlos a mi hobby: el hacking.
 
