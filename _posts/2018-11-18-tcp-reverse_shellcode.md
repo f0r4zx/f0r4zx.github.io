@@ -1,7 +1,7 @@
 ---
 layout: single
-title: TCP reverse shellcode
-date: 2018-11-18 12:00:00
+title: hola genesis (mi esposa)
+date: 2025-11-15 02:00:00
 classes: wide
 header:
   teaser: /assets/images/slae32.png
