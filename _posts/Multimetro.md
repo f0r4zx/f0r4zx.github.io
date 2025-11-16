@@ -1,0 +1,31 @@
+---
+layout: single
+title: ¿Como usar un multimetro?
+date: 2025-11-15 02:00:00
+classes: wide
+header:
+  teaser: ![alt text](../assets/images/multimetro/¿Que-es-un-multimetro.webp)
+categories:
+  - Electronica
+tags:
+  - Principiante
+  - Electronica
+  - Multimetro
+---
+## 🔌 ¿Qué es un multímetro?
+
+Un multímetro es una herramienta de medición portátil, ya sea **digital o análoga**. Su función principal es medir diferentes propiedades de la electricidad como:
+
+* **Voltaje** (AC/DC)
+* **Amperaje** (Corriente)
+* **Resistencia**
+* **Continuidad** (para verificar si un circuito está completo)
+* **Capacitancia**
+* **Prueba de diodos**
+* **Prueba de transistores** (hFE)
+* **Temperatura** (en algunos modelos)
+
+---
+
+
+
